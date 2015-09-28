@@ -4,6 +4,9 @@
 
     <uses-feature android:name="android.hardware.senor.accelerometer"/>
     <uses-feature android:name="android.hardware.senor.magnetic-field"/>
+    <uses-feature android:name="android.hardware.senor.proximity"/>
+    <uses-feature android:name="android.hardware.senor.orientation"/>
+
 
     <application
         android:allowBackup="true"
