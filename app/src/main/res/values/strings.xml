@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sample Application (1Shield)</string>
+
+    <string name="title_activity_sensors_list">Sensors List</string>
+
+    <string-array name="sensors_list">
+        <item>Accelerometer</item>
+        <item>Ambient Temperature</item>
+        <item>Gravity</item>
+        <item>Gyroscope</item>
+        <item>Light</item>
+        <item>Linear Acceleration</item>
+        <item>Magnetic Field</item>
+        <item>Orientation</item>
+        <item>Pressure</item>
+        <item>Proximity</item>
+        <item>Relative Humidity</item>
+        <item>Rotation Vector</item>
+        <item>Temperature</item>
+    </string-array>
+
+</resources>

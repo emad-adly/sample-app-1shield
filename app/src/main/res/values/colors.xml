@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_background">#3a3a3a</color>
+    <color name="selected_sensors_list_background">#232323</color>
+    <color name="activity_background">#040404</color>
+    <color name="data_fragment_background">#3a3a3a</color>
+</resources>
